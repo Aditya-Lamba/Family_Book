@@ -1,0 +1,37 @@
+body{
+    text-align:center;
+  }  
+  
+  #firstp{ 
+    word-spacing: 10px;
+   text-align: center;
+   font-size: 80px;
+   color:#03A9F4 ;
+  }
+  
+  
+  #img
+  {
+    border-style:solid;
+    border-color:#AED581;
+    padding:8px;
+    border-radius: 20px;
+    width: 450px;
+  }
+  body{
+    background-color:#1A237E;
+  }
+  #caption{
+    font-size:25px;
+    color:#FF6D00;
+  }
+  #text1{
+  color:#FDD835;
+  font-size:20px;
+  text-align:left
+  }
+  #text2{
+  color:#FF3D00;
+  font-size:35px;
+  }
+  
